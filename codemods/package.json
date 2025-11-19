@@ -11,7 +11,7 @@
     "migrate": "node src/cli.js"
   },
   "dependencies": {
-    "jscodeshift": "^0.15.2",
+    "jscodeshift": "^0.16.1",
     "@babel/parser": "^7.24.0",
     "@babel/traverse": "^7.24.0",
     "@babel/types": "^7.24.0",
